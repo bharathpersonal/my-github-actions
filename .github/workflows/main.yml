@@ -39,3 +39,6 @@ jobs:
 
       - name: List current dir
         run: ls -la
+
+      - name: run script
+        run: script.sh
